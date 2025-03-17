@@ -45,7 +45,7 @@
 ###  <font color = #9ACD32>4. Результат</font>
 
  + Ноутбук с решением поставленной задачи: [Project_CV_1.ipynb](https://github.com/DmitVasilev/Project_CV-1/blob/ae4d4977bce1230dd311be1857cf9b7452b63fb7/Project_CV_1_f.ipynb);            
- + Работа выполнена с использованием **Python версии 3.12.3**. Необходимые для воспроизводимости кода зависисмости приведены в файле requirements.txt: [requirements.txt](https://github.com/DmitVasilev/Project_CV-1/raw/refs/heads/master/requirements.txt). 
+ + Работа выполнена с использованием **Python версии 3.12.3**. Необходимые для воспроизводимости кода зависисмости приведены в файле requirements.txt: [requirements.txt](https://github.com/DmitVasilev/Project_CV-1/blob/025fcb783096e221d796b537bc8f08d99920fb71/requirements.txt). 
                         
 :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)             
 
